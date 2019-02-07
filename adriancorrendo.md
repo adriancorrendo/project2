@@ -20,4 +20,4 @@ My research project will be related to managing a database of hundreds of corn n
 
 **Sketch**
 
-![alt text][C:\Users\correndo\Desktop\Coding\project\sketch.jpg]
+![alt text][https://github.com/adriancorrendo/project/blob/master/sketch.jpg]
